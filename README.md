@@ -7,3 +7,5 @@ Features:
 2x rotary encoders
 2x slide potentiometers
 7-key capacitive touchpad
+
+<img width="1212" height="811" alt="Screenshot 2026-10-26 072042" src="https://github.com/user-attachments/assets/7965a62d-15b2-46a3-ad4d-9346ef5a68e1" />
